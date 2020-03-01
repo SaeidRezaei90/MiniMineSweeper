@@ -1,0 +1,88 @@
+E:\Rajaei\C#1\C#1 Sundays Tusedays\Session 8\Class Works\MiniMineSweeper\MiniMineSweeper\bin\Debug\MiniMineSweeper.exe.config
+E:\Rajaei\C#1\C#1 Sundays Tusedays\Session 8\Class Works\MiniMineSweeper\MiniMineSweeper\bin\Debug\MiniMineSweeper.exe
+E:\Rajaei\C#1\C#1 Sundays Tusedays\Session 8\Class Works\MiniMineSweeper\MiniMineSweeper\bin\Debug\MiniMineSweeper.pdb
+E:\Rajaei\C#1\C#1 Sundays Tusedays\Session 8\Class Works\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.Form1.resources
+E:\Rajaei\C#1\C#1 Sundays Tusedays\Session 8\Class Works\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.Properties.Resources.resources
+E:\Rajaei\C#1\C#1 Sundays Tusedays\Session 8\Class Works\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.csproj.GenerateResource.Cache
+E:\Rajaei\C#1\C#1 Sundays Tusedays\Session 8\Class Works\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.exe
+E:\Rajaei\C#1\C#1 Sundays Tusedays\Session 8\Class Works\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.pdb
+H:\C#\session 8\Session 8\Class Works\MiniMineSweeper\MiniMineSweeper\bin\Debug\MiniMineSweeper.exe.config
+H:\C#\session 8\Session 8\Class Works\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.exe
+H:\C#\session 8\Session 8\Class Works\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.pdb
+C:\Users\s.rezaei\Desktop\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\bin\Debug\MiniMineSweeper.exe.config
+C:\Users\s.rezaei\Desktop\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.exe
+C:\Users\s.rezaei\Desktop\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.pdb
+C:\Users\s.rezaei\Desktop\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\bin\Debug\MiniMineSweeper.exe
+C:\Users\s.rezaei\Desktop\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\bin\Debug\MiniMineSweeper.pdb
+C:\Users\s.rezaei\Desktop\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.Form1.resources
+C:\Users\s.rezaei\Desktop\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.Properties.Resources.resources
+C:\Users\s.rezaei\Desktop\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.csproj.GenerateResource.Cache
+C:\Users\Saeid\Desktop\mineeeeeeeeee\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\bin\Debug\MiniMineSweeper.exe.config
+C:\Users\Saeid\Desktop\mineeeeeeeeee\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\bin\Debug\MiniMineSweeper.exe
+C:\Users\Saeid\Desktop\mineeeeeeeeee\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\bin\Debug\MiniMineSweeper.pdb
+C:\Users\Saeid\Desktop\mineeeeeeeeee\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.Form1.resources
+C:\Users\Saeid\Desktop\mineeeeeeeeee\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.GameOverForm.resources
+C:\Users\Saeid\Desktop\mineeeeeeeeee\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.Properties.Resources.resources
+C:\Users\Saeid\Desktop\mineeeeeeeeee\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.GameWon.resources
+C:\Users\Saeid\Desktop\mineeeeeeeeee\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.csproj.GenerateResource.Cache
+C:\Users\Saeid\Desktop\mineeeeeeeeee\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.exe
+C:\Users\Saeid\Desktop\mineeeeeeeeee\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.pdb
+C:\Users\Saeid\Desktop\mineeeeeeeeee\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.csprojResolveAssemblyReference.cache
+H:\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\bin\Debug\MiniMineSweeper.exe.config
+H:\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.exe
+H:\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.pdb
+H:\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\bin\Debug\MiniMineSweeper.exe
+H:\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\bin\Debug\MiniMineSweeper.pdb
+H:\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.csprojResolveAssemblyReference.cache
+H:\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.Form1.resources
+H:\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.GameOverForm.resources
+H:\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.Properties.Resources.resources
+H:\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.GameWon.resources
+H:\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.csproj.GenerateResource.Cache
+C:\Users\s.rezaei\Desktop\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.GameOverForm.resources
+C:\Users\s.rezaei\Desktop\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.GameWon.resources
+C:\Users\s.rezaei\Desktop\Mine Sweeper\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.csprojResolveAssemblyReference.cache
+H:\Mine Sweepernew\MiniMineSweeper\MiniMineSweeper\bin\Debug\MiniMineSweeper.exe.config
+H:\Mine Sweepernew\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.exe
+H:\Mine Sweepernew\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.pdb
+H:\Mine Sweepernew\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.csprojResolveAssemblyReference.cache
+H:\Mine Sweepernew\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.Form1.resources
+H:\Mine Sweepernew\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.GameOverForm.resources
+H:\Mine Sweepernew\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.Properties.Resources.resources
+H:\Mine Sweepernew\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.GameWon.resources
+H:\Mine Sweepernew\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.csproj.GenerateResource.Cache
+H:\Mine Sweepernew\MiniMineSweeper\MiniMineSweeper\bin\Debug\MiniMineSweeper.exe
+H:\Mine Sweepernew\MiniMineSweeper\MiniMineSweeper\bin\Debug\MiniMineSweeper.pdb
+I:\Mine Sweepernew\MiniMineSweeper\MiniMineSweeper\bin\Debug\MiniMineSweeper.exe.config
+I:\Mine Sweepernew\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.exe
+I:\Mine Sweepernew\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.pdb
+I:\Mine Sweepernew\MiniMineSweeper\MiniMineSweeper\bin\Debug\MiniMineSweeper.exe
+I:\Mine Sweepernew\MiniMineSweeper\MiniMineSweeper\bin\Debug\MiniMineSweeper.pdb
+I:\Mine Sweepernew\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.csprojResolveAssemblyReference.cache
+I:\Mine Sweepernew\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.Form1.resources
+I:\Mine Sweepernew\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.GameOverForm.resources
+I:\Mine Sweepernew\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.Properties.Resources.resources
+I:\Mine Sweepernew\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.GameWon.resources
+I:\Mine Sweepernew\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.csproj.GenerateResource.Cache
+I:\Mine Sweepernew\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.StatisticsForm.resources
+C:\Users\Saeid\Desktop\MiniMineSweeper\MiniMineSweeper\bin\Debug\MiniMineSweeper.exe.config
+C:\Users\Saeid\Desktop\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.exe
+C:\Users\Saeid\Desktop\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.pdb
+C:\Users\Saeid\Desktop\MiniMineSweeper\MiniMineSweeper\bin\Debug\MiniMineSweeper.exe
+C:\Users\Saeid\Desktop\MiniMineSweeper\MiniMineSweeper\bin\Debug\MiniMineSweeper.pdb
+C:\Users\Saeid\Desktop\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.csprojResolveAssemblyReference.cache
+C:\Users\Saeid\Desktop\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.Form1.resources
+C:\Users\Saeid\Desktop\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.GameOverForm.resources
+C:\Users\Saeid\Desktop\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.Properties.Resources.resources
+C:\Users\Saeid\Desktop\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.GameWon.resources
+C:\Users\Saeid\Desktop\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.StatisticsForm.resources
+C:\Users\Saeid\Desktop\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.csproj.GenerateResource.Cache
+E:\amoozesh\C#\C# Toturial Classes\MiniMineSweeper\MiniMineSweeper\bin\Debug\MiniMineSweeper.exe.config
+E:\amoozesh\C#\C# Toturial Classes\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.exe
+E:\amoozesh\C#\C# Toturial Classes\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.pdb
+E:\amoozesh\C#\C# Toturial Classes\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.csprojResolveAssemblyReference.cache
+E:\amoozesh\C#\C# Toturial Classes\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.Form1.resources
+E:\amoozesh\C#\C# Toturial Classes\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.GameOverForm.resources
+E:\amoozesh\C#\C# Toturial Classes\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.GameWon.resources
+E:\amoozesh\C#\C# Toturial Classes\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.StatisticsForm.resources
+E:\amoozesh\C#\C# Toturial Classes\MiniMineSweeper\MiniMineSweeper\obj\Debug\MiniMineSweeper.csproj.GenerateResource.Cache
